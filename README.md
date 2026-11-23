@@ -1,46 +1,53 @@
-# Awesome-Autonomous-Penetration-Testing-Security-Swarms
-# Awesome-Autonomous-Penetration-Testing-Security-Swarms
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Autonomous Penetration Testing &amp; Security Swarms" width="100%" />
+</p>
 
-<FollowUp>
-Would you like to **add a dedicated section for open-source cyber range environments & agent benchmarks** (like `CyberSecEval`, `SecBench`, `GHOSTS`, `DetectionLab`) or **generate the next `README.md` repository**?
-</FollowUp>
-# Awesome-Autonomous-Penetration-Testing-Security-Swarms
+# Awesome Autonomous Penetration Testing &amp; Security Swarms 🛡️🤖
 
-# Awesome Autonomous Penetration Testing & Security Swarms 🌟
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms?color=red" alt="GitHub issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+> **A curated collection of top autonomous penetration testing platforms, continuous security validation tools, AI red teaming frameworks, and multi-agent security swarms — with an emphasis on open-source, self-hosted solutions.** 🌟
 
+Autonomous penetration testing and multi-agent security swarms utilize artificial intelligence (AI agents, LLMs, and reactive reasoning loops) to automate reconnaissance, attack-surface discovery, exploit validation, vulnerability chaining, and remediation reporting with minimal human intervention. 
 
-> **Top Autonomous Penetration Testing Security Swarms (Opensource)**  
+While enterprise continuous threat validation is historically dominated by commercial SaaS platforms (Horizon3.ai NodeZero, Pentera, SafeBreach), a flourishing ecosystem of open-source projects now enables engineering teams to deploy local, sandbox-isolated autonomous pentest agents, swarm coordination engines, and LLM-powered red teams.
 
-> A curated list of the best autonomous penetration testing platforms, continuous security validation tools, and multi-agent security swarms — with a strong focus on **open-source** and self-hostable alternatives.  
+---
 
-> 🌟 **Star if you like it!** 🌟
+## 📑 Table of Contents
 
+- [📊 Sector Overview &amp; Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⚡ Autonomous Swarms &amp; Pentest Platforms](#-autonomous-swarms--pentest-platforms)
+  - [🤖 LLM-Driven Pentest Agents &amp; Offensive MCPs](#-llm-driven-pentest-agents--offensive-mcps)
+  - [🛠️ Supporting Security Frameworks &amp; Simulators](#️-supporting-security-frameworks--simulators)
+- [⭐ Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support &amp; Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-Autonomous penetration testing and security swarm systems use AI agents (often multi-agent architectures) to plan, recon, exploit, validate, and report on attack paths with minimal human intervention. Commercial platforms such as Horizon3 NodeZero, Pentera, and SafeBreach dominate the enterprise continuous-testing space, while a rapidly growing open-source ecosystem delivers self-hosted multi-agent pentest systems, LLM-driven agents, and swarm frameworks that run inside isolated sandboxes.
+## 📊 Sector Overview &amp; Market Dynamics
 
+The global market for proactive cyber defense is experiencing rapid growth, driven by compliance mandates (NIS2, DORA, PCI-DSS 4.0) and the necessity for machine-speed vulnerability discovery:
+- **Penetration Testing Market**: Valued at **$2.5B–$3.1B** with a projected CAGR of **14%–16.6%**.
+- **Breach &amp; Attack Simulation (BAS) Market**: Valued at **$600M–$1.1B** with an explosive projected CAGR of **22%–27%+**.
+- **Market Concentration**: The space is currently **moderately fragmented**. High-growth AI-native pure-plays lead autonomous testing innovation, while larger security conglomerates (CrowdStrike, Palo Alto Networks, IBM) are actively consolidating the sector by integrating continuous automated validation directly into XDR and exposure management portfolios.
 
+---
 
-This list prioritizes **open-source GitHub projects** while keeping SaaS/hosted platforms clearly separated. **All tools listed are intended strictly for authorized security testing only.**
+## 🏢 SaaS / Hosted Platforms
 
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global penetration testing and breach and attack simulation (BAS) market is valued at approximately $2.5B–$3.1B for penetration testing (projected ~14–16% CAGR) and $600M–$1.1B for BAS (growing rapidly at ~22–27% CAGR). The sector is currently **moderately fragmented**, populated by specialized autonomous red teaming and AI-native pure-plays, but is actively undergoing consolidation as major cybersecurity conglomerates integrate automated security validation into broader XDR and exposure management suites.
-
-## SaaS / Hosted Platforms
-
-These are popular commercial autonomous penetration testing, breach-and-attack simulation, and continuous security validation platforms (closed-source / hosted):
+Leading commercial autonomous penetration testing, breach-and-attack simulation, and continuous security validation platforms:
 
 | Company / Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,128 +62,108 @@ These are popular commercial autonomous penetration testing, breach-and-attack s
 | **[SafeBreach](https://www.safebreach.com/)** | Funding: ~$106.5M (Series D) / Est. ARR: ~$21M–$33M | ~$50,000/year starting baseline tier (scales by number of deployed simulators, endpoints, and cloud connectors) | No self-serve free tier; tailored enterprise Proof of Concept (PoC) trial arranged with sales engineering | Continuous Breach and Attack Simulation (BAS) platform simulating comprehensive multi-vector adversary playbooks. |
 | **[BreachLock](https://www.breachlock.com/)** | Funding: ~$3M (Seed) / Est. Revenue: ~$10M–$15M | $2,500 for one-time validation; annual continuous security validation starting from $5,000/year | No self-serve free tier; free live interactive product demo and scoped testing walkthroughs upon request | Full-stack Continuous Threat Exposure Management (CTEM) combining AI-driven scanning with PTaaS human validation. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Curated open-source repositories and self-hostable autonomous security agents, sorted by GitHub star count (descending). Each tool should strictly be executed inside sandbox environments against authorized targets.
 
+### ⚡ Autonomous Swarms &amp; Pentest Platforms
 
+- **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** (PentAGI) [![GitHub stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social&color=white)](https://github.com/vxcontrol/pentagi/stargazers)  
+  *Fully autonomous multi-agent system for end-to-end penetration testing.* Features specialized collaborative agents (planner, researcher, pentester, coder, reporter) coordinating 20+ professional tools (nmap, Metasploit, sqlmap) in isolated Docker environments. Maintains long-term vector memory, provides Web UI/REST/GraphQL APIs, and supports both commercial and local Ollama LLMs. (MIT License)
 
-Open-source alternatives and tools you can self-host, run locally, or extend. These range from full multi-agent autonomous pentest platforms to specialized LLM-driven agents, security swarms, and supporting frameworks. Emphasis is placed on systems designed for authorized testing with sandbox isolation.
+- **[apache/caldera](https://github.com/apache/caldera)** [![GitHub stars](https://img.shields.io/github/stars/apache/caldera?style=social&color=white)](https://github.com/apache/caldera/stargazers)  
+  *Automated adversary emulation and autonomous red-team platform by MITRE.* Built directly upon the MITRE ATT&amp;CK framework, Caldera automates complex breach-and-attack simulation profiles, autonomous agent actions, and operational security testing. (Apache-2.0 License)
 
+- **[guardicore/monkey](https://github.com/guardicore/monkey)** (Infection Monkey) [![GitHub stars](https://img.shields.io/github/stars/guardicore/monkey?style=social&color=white)](https://github.com/guardicore/monkey/stargazers)  
+  *Open-source breach and attack simulation (BAS) tool for continuous testing.* Autonomously tests internal network resilience, laterally propagates to validate network segmentation, and evaluates adherence to Zero Trust frameworks without disrupting production assets. (GPL-3.0 License)
 
+- **[jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)** (ARTEX) [![GitHub stars](https://img.shields.io/github/stars/jiwoochris/artex-global?style=social&color=white)](https://github.com/jiwoochris/artex-global/stargazers)  
+  *Multi-agent autonomous penetration testing framework.* Employs specialized LLM-driven agents executing targeted recon, active exploitation, and vulnerability reporting with multi-language and containerized test execution support. (AGPL-3.0 License)
 
-### Multi-Agent Autonomous Penetration Testing Platforms
+- **[Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)** [![GitHub stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social&color=white)](https://github.com/Armur-Ai/Pentest-Swarm-AI/stargazers)  
+  *Autonomous multi-agent security swarm engine for web application &amp; API pentesting.* Coordinates asynchronous agents via a stigmergic blackboard with pgvector memory and ReAct loops. Enforces deterministic non-LLM oracle verification of findings before logging. (AGPL-3.0 License)
 
-
-
-- **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** (PentAGI)  
-
-  Fully autonomous multi-agent system for complex penetration testing tasks. Specialized agents (planner, researcher, pentester, coder, reporter, etc.) coordinate, run 20+ professional tools (nmap, Metasploit, sqlmap, etc.) inside isolated Docker sandboxes, maintain long-term memory, and produce reports. Supports many LLM providers (cloud + local/Ollama). Web UI, REST/GraphQL APIs. MIT license. Highly active and widely adopted (~35k stars).
-
-
-
-- **[Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)**  
-
-  Open-source autonomous AI pentester using a real swarm of concurrent recon, exploit, and report agents. Targets web apps and REST/GraphQL APIs, verifies findings with non-LLM oracles, and supports Claude, Gemini, OpenAI-compatible, and local Ollama models. Designed as an open alternative to certain commercial autonomous testers. AGPL-3.0.
-
-
-
-- **[s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode)** (and related forks)  
-
-  Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations. Lead agent dispatches specialized sub-agents (recon, scanner, enumerator, exploiter, identity/AD, webapp, post-exploit, critic, reporter, etc.). Terminal-focused with support for many LLM providers.
-
-
-
-### LLM-Driven Autonomous Pentest Agents
-
-
-
-- **[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)**  
-
-  Pioneering automated penetration testing agentic framework powered by large language models (USENIX Security 2024). Multi-stage pipeline (recon → exploit → reporting), session persistence, and autonomous operation. Strong research foundation and continued community use.
-
-
-
-- **[Vasco0x4/AIDA](https://github.com/Vasco0x4/AIDA)**  
-
-  Turns any LLM into an autonomous pentester. You define the scope; the agent reasons, executes commands inside an isolated Docker container loaded with classic tools (nmap, sqlmap, ffuf, nuclei, etc.), and documents findings with the exact commands used. Human review of results is built into the workflow.
-
-
-
-- **Other notable agents**: Projects such as Strix, Shannon, HexStrike AI, and various research prototypes (search for current high-star autonomous pentest agents) that wire LLMs to tool execution loops for recon, exploitation, and reporting.
-
-
-
-### Supporting Open-Source Tools & Frameworks
-
-
-
-- **OWASP Nettacker** and similar automated security testing frameworks that can serve as building blocks or be orchestrated by agent systems.
-
-- **MCP-based security tool bridges** (e.g., HexStrike-style MCP servers) that expose nmap, nuclei, sqlmap, and other tools to coding/agent frameworks.
-
-- Local LLM + MCP combinations (e.g., Unburden-style assistants) that let agents drive offensive workflows with local models.
-
-- Classic open-source offensive tooling ecosystems (Metasploit, BloodHound, Impacket, etc.) that modern agent platforms typically wrap inside sandboxes.
-
-
-
-> **Tip**: For full multi-agent autonomy with strong isolation, start with **PentAGI**. For research-grade or lighter autonomous loops, **PentestGPT** and **AIDA** are excellent entry points. Always run agents inside proper sandboxes/containers and only against systems you are explicitly authorized to test. Prefer projects that enforce human review of findings and maintain clear audit logs.
-
-
-
-## How to Contribute
-
-
-
-Contributions are welcome and encouraged!
-
-
-
-1. Fork the repository
-
-2. Add a new tool under the appropriate section (keep SaaS and Open-Source strictly separate)
-
-3. Use the same format: **Name** — short description + key features + license/link
-
-4. Prefer actively maintained projects with clear documentation, sandbox isolation, and explicit authorized-use guidance
-
-5. Submit a Pull Request
-
-
-
-Please keep descriptions neutral and factual. Open-source projects are the primary focus of this list. Do not add tools that appear designed primarily for unauthorized use.
-
-
-
-## Disclaimer
-
-
-
-This is a community-curated list for informational and educational purposes only.  
-
-**Inclusion does not constitute an endorsement.**  
-
-
-
-**Critical legal and ethical notice**: Autonomous penetration testing tools must be used **only** on systems you own or have explicit, written authorization to test. Unauthorized access, scanning, or exploitation is illegal in most jurisdictions and can result in severe civil and criminal penalties. Always obtain proper scope and authorization before running any tool.
-
-
-
-Review licenses, security practices, sandboxing behavior, model usage costs, and potential risks carefully. Some projects may have dual licensing, commercial cloud offerings, or require paid API keys. Check the actual LICENSE file and documentation. Agents can execute real commands and make lasting changes — use isolated environments, version control of findings, and human oversight.
-
-
-
-The maintainers of this list assume no responsibility for misuse of any listed software.
-
-
+- **[s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode)** [![GitHub stars](https://img.shields.io/github/stars/s0ld13rr/pentestcode?style=social&color=white)](https://github.com/s0ld13rr/pentestcode/stargazers)  
+  *Multi-agent CLI offensive security framework.* Features persistent engagement state machines, specialized sub-agents (recon, scanner, enumerator, Active Directory exploiter, reporter), and autonomous tool dispatching. (GPL-3.0 License)
 
 ---
 
+### 🤖 LLM-Driven Pentest Agents &amp; Offensive MCPs
 
+- **[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)** [![GitHub stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social&color=white)](https://github.com/GreyDGL/PentestGPT/stargazers)  
+  *Pioneering LLM-empowered automated penetration testing agent (USENIX Security 2024).* Structures testing into hierarchical modules (reasoning, generation, parsing) to conduct multi-stage attacks with contextual persistence. (MIT License)
 
-**Made with ❤️ for the open-source security community**  
+- **[0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)** [![GitHub stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social&color=white)](https://github.com/0x4m4/hexstrike-ai/stargazers)  
+  *Advanced offensive Model Context Protocol (MCP) server for autonomous agents.* Bridges LLMs and agent frameworks directly to 150+ command-line cybersecurity tools (nmap, nuclei, ffuf, hydra, metasploit) for automated exploitation and bug hunting. (MIT License)
 
-If this list helped you, please ⭐ the repo!  
+- **[google/mantis](https://github.com/google/mantis)** [![GitHub stars](https://img.shields.io/github/stars/google/mantis?style=social&color=white)](https://github.com/google/mantis/stargazers)  
+  *Modular AI framework by Google for discovering, reproducing, and patching vulnerabilities.* Coordinates automated exploration agents to test targets and validate remediation with verifiable code patches. (Apache-2.0 License)
 
-**Authorized testing only.**
+- **[xalgorix/xalgorix](https://github.com/xalgorix/xalgorix)** [![GitHub stars](https://img.shields.io/github/stars/xalgorix/xalgorix?style=social&color=white)](https://github.com/xalgorix/xalgorix/stargazers)  
+  *Autonomous 22-phase web and API penetration testing agent.* Employs automated exploit verification to eliminate false positives and compiles detailed CVSS-scored remediation reports. (AGPL-3.0 License)
+
+- **[Vasco0x4/AIDA](https://github.com/Vasco0x4/AIDA)** [![GitHub stars](https://img.shields.io/github/stars/Vasco0x4/AIDA?style=social&color=white)](https://github.com/Vasco0x4/AIDA/stargazers)  
+  *Autonomous penetration testing agent wrapped in Docker isolation.* Interactively executes tool pipelines, logs exact reproduction payloads, and incorporates human-in-the-loop validation checkpoints. (GPL-3.0 License)
+
+---
+
+### 🛠️ Supporting Security Frameworks &amp; Simulators
+
+- **[OWASP/Nettacker](https://github.com/OWASP/Nettacker)** [![GitHub stars](https://img.shields.io/github/stars/OWASP/Nettacker?style=social&color=white)](https://github.com/OWASP/Nettacker/stargazers)  
+  *Automated penetration testing and vulnerability scanning framework.* Frequently integrated into agent execution pipelines for high-throughput service enumeration, network reconnaissance, and CVE validation. (Apache-2.0 License)
+
+- **[redcode-labs/Coldfire](https://github.com/redcode-labs/Coldfire)** [![GitHub stars](https://img.shields.io/github/stars/redcode-labs/Coldfire?style=social&color=white)](https://github.com/redcode-labs/Coldfire/stargazers)  
+  *Golang malware development &amp; adversary simulation framework.* Provides building blocks for autonomous agent execution loops including evading controls, process manipulation, and reconnaissance primitives. (MIT License)
+
+> 💡 **Best Practice Tip**: For full swarm autonomy, explore **PentAGI** and **Pentest-Swarm-AI**. For modular agent tooling and MCP orchestration, integrate **hexstrike-ai**. Always execute autonomous offensive agents within dedicated network namespaces or ephemeral containers with human supervision.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Please help grow and refine this resource:
+
+1. 🍴 **Fork the repository**
+2. 🌿 **Create a feature branch**: `git checkout -b feature/new-security-agent`
+3. 📝 **Add your entry** under the correct section in alphabetical or categorized order.
+4. 📌 **Follow the template**: `[Owner/Repo](URL) [![GitHub stars](badge-url)](stargazers) — Description (License)`
+5. 🛡️ Ensure the tool focuses strictly on authorized security testing and research.
+6. 🚀 **Submit a Pull Request** with a clear explanation of the platform.
+
+---
+
+## 💖 Support &amp; Sponsorship
+
+If you find this repository valuable, consider supporting the continued curation and maintenance of open-source cybersecurity resources:
+
+- ⭐ **Star this repository** to improve visibility across the cybersecurity community!
+- 🍴 **Fork and share** with fellow security researchers, red-teamers, and AI engineers.
+- ☕ **Buy me a coffee**: Support ongoing work via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for supporting open-source security tools! 🙌
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is curated strictly for educational, defensive, and authorized research purposes:
+
+- **Strict Authorization Required**: Autonomous penetration testing tools must **only** be deployed against systems, networks, and environments where you have explicit, written authorization from the asset owner.
+- **Legal Compliance**: Unauthorized network exploitation, scanning, and penetration testing violate local and international laws (such as the Computer Fraud and Abuse Act - CFAA) and carry criminal and civil liability.
+- **Operational Safety**: AI agents executing real shell commands can alter system configurations, fill databases, or cause service downtime. Always deploy autonomous swarms in isolated staging environments or sandboxes with audit logging and emergency kill switches.
+- **Maintainer Limitation**: The curators and contributors assume no liability for misuse, damages, or unintended disruptions caused by any listed tool.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for the global open-source cybersecurity &amp; AI community.</b><br />
+  <sub>Always test ethically and responsibly.</sub>
+</p>
