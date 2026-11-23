@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms?color=red" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Security-Swarms/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
@@ -66,55 +66,55 @@ Leading commercial autonomous penetration testing, breach-and-attack simulation,
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source repositories and self-hostable autonomous security agents, sorted by GitHub star count (descending). Each tool should strictly be executed inside sandbox environments against authorized targets.
+Curated open-source repositories and self-hostable autonomous security agents, sorted by GitHub Stars_Count (descending). Each tool should strictly be executed inside sandbox environments against authorized targets.
 
 ### ⚡ Autonomous Swarms &amp; Pentest Platforms
 
-- **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** (PentAGI) [![GitHub stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social&color=white)](https://github.com/vxcontrol/pentagi/stargazers)  
+- **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** (PentAGI) [![GitHub_Stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social&color=white)](https://github.com/vxcontrol/pentagi/stargazers)  
   *Fully autonomous multi-agent system for end-to-end penetration testing.* Features specialized collaborative agents (planner, researcher, pentester, coder, reporter) coordinating 20+ professional tools (nmap, Metasploit, sqlmap) in isolated Docker environments. Maintains long-term vector memory, provides Web UI/REST/GraphQL APIs, and supports both commercial and local Ollama LLMs. (MIT License)
 
-- **[apache/caldera](https://github.com/apache/caldera)** [![GitHub stars](https://img.shields.io/github/stars/apache/caldera?style=social&color=white)](https://github.com/apache/caldera/stargazers)  
+- **[apache/caldera](https://github.com/apache/caldera)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/caldera?style=social&color=white)](https://github.com/apache/caldera/stargazers)  
   *Automated adversary emulation and autonomous red-team platform by MITRE.* Built directly upon the MITRE ATT&amp;CK framework, Caldera automates complex breach-and-attack simulation profiles, autonomous agent actions, and operational security testing. (Apache-2.0 License)
 
-- **[guardicore/monkey](https://github.com/guardicore/monkey)** (Infection Monkey) [![GitHub stars](https://img.shields.io/github/stars/guardicore/monkey?style=social&color=white)](https://github.com/guardicore/monkey/stargazers)  
+- **[guardicore/monkey](https://github.com/guardicore/monkey)** (Infection Monkey) [![GitHub_Stars](https://img.shields.io/github/stars/guardicore/monkey?style=social&color=white)](https://github.com/guardicore/monkey/stargazers)  
   *Open-source breach and attack simulation (BAS) tool for continuous testing.* Autonomously tests internal network resilience, laterally propagates to validate network segmentation, and evaluates adherence to Zero Trust frameworks without disrupting production assets. (GPL-3.0 License)
 
-- **[jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)** (ARTEX) [![GitHub stars](https://img.shields.io/github/stars/jiwoochris/artex-global?style=social&color=white)](https://github.com/jiwoochris/artex-global/stargazers)  
+- **[jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)** (ARTEX) [![GitHub_Stars](https://img.shields.io/github/stars/jiwoochris/artex-global?style=social&color=white)](https://github.com/jiwoochris/artex-global/stargazers)  
   *Multi-agent autonomous penetration testing framework.* Employs specialized LLM-driven agents executing targeted recon, active exploitation, and vulnerability reporting with multi-language and containerized test execution support. (AGPL-3.0 License)
 
-- **[Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)** [![GitHub stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social&color=white)](https://github.com/Armur-Ai/Pentest-Swarm-AI/stargazers)  
+- **[Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)** [![GitHub_Stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social&color=white)](https://github.com/Armur-Ai/Pentest-Swarm-AI/stargazers)  
   *Autonomous multi-agent security swarm engine for web application &amp; API pentesting.* Coordinates asynchronous agents via a stigmergic blackboard with pgvector memory and ReAct loops. Enforces deterministic non-LLM oracle verification of findings before logging. (AGPL-3.0 License)
 
-- **[s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode)** [![GitHub stars](https://img.shields.io/github/stars/s0ld13rr/pentestcode?style=social&color=white)](https://github.com/s0ld13rr/pentestcode/stargazers)  
+- **[s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode)** [![GitHub_Stars](https://img.shields.io/github/stars/s0ld13rr/pentestcode?style=social&color=white)](https://github.com/s0ld13rr/pentestcode/stargazers)  
   *Multi-agent CLI offensive security framework.* Features persistent engagement state machines, specialized sub-agents (recon, scanner, enumerator, Active Directory exploiter, reporter), and autonomous tool dispatching. (GPL-3.0 License)
 
 ---
 
 ### 🤖 LLM-Driven Pentest Agents &amp; Offensive MCPs
 
-- **[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)** [![GitHub stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social&color=white)](https://github.com/GreyDGL/PentestGPT/stargazers)  
+- **[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social&color=white)](https://github.com/GreyDGL/PentestGPT/stargazers)  
   *Pioneering LLM-empowered automated penetration testing agent (USENIX Security 2024).* Structures testing into hierarchical modules (reasoning, generation, parsing) to conduct multi-stage attacks with contextual persistence. (MIT License)
 
-- **[0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)** [![GitHub stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social&color=white)](https://github.com/0x4m4/hexstrike-ai/stargazers)  
+- **[0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social&color=white)](https://github.com/0x4m4/hexstrike-ai/stargazers)  
   *Advanced offensive Model Context Protocol (MCP) server for autonomous agents.* Bridges LLMs and agent frameworks directly to 150+ command-line cybersecurity tools (nmap, nuclei, ffuf, hydra, metasploit) for automated exploitation and bug hunting. (MIT License)
 
-- **[google/mantis](https://github.com/google/mantis)** [![GitHub stars](https://img.shields.io/github/stars/google/mantis?style=social&color=white)](https://github.com/google/mantis/stargazers)  
+- **[google/mantis](https://github.com/google/mantis)** [![GitHub_Stars](https://img.shields.io/github/stars/google/mantis?style=social&color=white)](https://github.com/google/mantis/stargazers)  
   *Modular AI framework by Google for discovering, reproducing, and patching vulnerabilities.* Coordinates automated exploration agents to test targets and validate remediation with verifiable code patches. (Apache-2.0 License)
 
-- **[xalgorix/xalgorix](https://github.com/xalgorix/xalgorix)** [![GitHub stars](https://img.shields.io/github/stars/xalgorix/xalgorix?style=social&color=white)](https://github.com/xalgorix/xalgorix/stargazers)  
+- **[xalgorix/xalgorix](https://github.com/xalgorix/xalgorix)** [![GitHub_Stars](https://img.shields.io/github/stars/xalgorix/xalgorix?style=social&color=white)](https://github.com/xalgorix/xalgorix/stargazers)  
   *Autonomous 22-phase web and API penetration testing agent.* Employs automated exploit verification to eliminate false positives and compiles detailed CVSS-scored remediation reports. (AGPL-3.0 License)
 
-- **[Vasco0x4/AIDA](https://github.com/Vasco0x4/AIDA)** [![GitHub stars](https://img.shields.io/github/stars/Vasco0x4/AIDA?style=social&color=white)](https://github.com/Vasco0x4/AIDA/stargazers)  
+- **[Vasco0x4/AIDA](https://github.com/Vasco0x4/AIDA)** [![GitHub_Stars](https://img.shields.io/github/stars/Vasco0x4/AIDA?style=social&color=white)](https://github.com/Vasco0x4/AIDA/stargazers)  
   *Autonomous penetration testing agent wrapped in Docker isolation.* Interactively executes tool pipelines, logs exact reproduction payloads, and incorporates human-in-the-loop validation checkpoints. (GPL-3.0 License)
 
 ---
 
 ### 🛠️ Supporting Security Frameworks &amp; Simulators
 
-- **[OWASP/Nettacker](https://github.com/OWASP/Nettacker)** [![GitHub stars](https://img.shields.io/github/stars/OWASP/Nettacker?style=social&color=white)](https://github.com/OWASP/Nettacker/stargazers)  
+- **[OWASP/Nettacker](https://github.com/OWASP/Nettacker)** [![GitHub_Stars](https://img.shields.io/github/stars/OWASP/Nettacker?style=social&color=white)](https://github.com/OWASP/Nettacker/stargazers)  
   *Automated penetration testing and vulnerability scanning framework.* Frequently integrated into agent execution pipelines for high-throughput service enumeration, network reconnaissance, and CVE validation. (Apache-2.0 License)
 
-- **[redcode-labs/Coldfire](https://github.com/redcode-labs/Coldfire)** [![GitHub stars](https://img.shields.io/github/stars/redcode-labs/Coldfire?style=social&color=white)](https://github.com/redcode-labs/Coldfire/stargazers)  
+- **[redcode-labs/Coldfire](https://github.com/redcode-labs/Coldfire)** [![GitHub_Stars](https://img.shields.io/github/stars/redcode-labs/Coldfire?style=social&color=white)](https://github.com/redcode-labs/Coldfire/stargazers)  
   *Golang malware development &amp; adversary simulation framework.* Provides building blocks for autonomous agent execution loops including evading controls, process manipulation, and reconnaissance primitives. (MIT License)
 
 > 💡 **Best Practice Tip**: For full swarm autonomy, explore **PentAGI** and **Pentest-Swarm-AI**. For modular agent tooling and MCP orchestration, integrate **hexstrike-ai**. Always execute autonomous offensive agents within dedicated network namespaces or ephemeral containers with human supervision.
@@ -134,7 +134,7 @@ Contributions are warmly welcomed! Please help grow and refine this resource:
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a feature branch**: `git checkout -b feature/new-security-agent`
 3. 📝 **Add your entry** under the correct section in alphabetical or categorized order.
-4. 📌 **Follow the template**: `[Owner/Repo](URL) [![GitHub stars](badge-url)](stargazers) — Description (License)`
+4. 📌 **Follow the template**: `[Owner/Repo](URL) [![GitHub_Stars](badge-url)](stargazers) — Description (License)`
 5. 🛡️ Ensure the tool focuses strictly on authorized security testing and research.
 6. 🚀 **Submit a Pull Request** with a clear explanation of the platform.
 
